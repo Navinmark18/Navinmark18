@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navinmark18
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning normal school
+- 🌱 I’m currently learning python und HTML 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me per Email 
 
